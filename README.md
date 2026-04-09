@@ -3,7 +3,7 @@
 💻 **Software Engineer | Data Engineering Enthusiast | Developer**  
 📍 Pune, India  
 
-I build **scalable data systems and full-stack applications** with a strong focus on performance, reliability, and real-world impact. Currently working as a **Software Engineer at Capgemini**, where I design and optimize ETL pipelines and backend workflows.
+I specialize in **Data Engineering and ETL workflows**, with a focus on building efficient, reliable systems for real-world applications. Currently working as a **Software Engineer at Capgemini**, where I design and optimize ETL pipelines and backend workflows.
 
 ---
 
