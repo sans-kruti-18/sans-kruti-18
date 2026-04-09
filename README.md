@@ -79,11 +79,11 @@ I build **scalable data systems and full-stack applications** with a strong focu
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=sans-kruti-18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sans-kruti-18&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=sans-kruti-18&theme=dark&hide_border=false)  
+![GitHub Streak](https://streak-stats.demolab.com?user=sans-kruti-18&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sans-kruti-18&theme=dark&layout=compact)  
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sans-kruti-18&layout=compact&theme=tokyonight)
 
 ---
 
