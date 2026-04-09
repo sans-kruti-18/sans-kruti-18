@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanskruti Kadnor  
 
-💻 **Software Engineer | Backend & Data Engineering Enthusiast | Full-Stack Developer**  
+💻 **Software Engineer | Data Engineering Enthusiast | Developer**  
 📍 Pune, India  
 
 I build **scalable data systems and full-stack applications** with a strong focus on performance, reliability, and real-world impact. Currently working as a **Software Engineer at Capgemini**, where I design and optimize ETL pipelines and backend workflows.
@@ -10,9 +10,9 @@ I build **scalable data systems and full-stack applications** with a strong focu
 ## 🚀 About Me  
 
 - 🔭 Working on **ETL pipelines & data engineering solutions** using Ab Initio, SQL, and Unix  
-- ⚙️ Strong in **backend logic, system workflows, and performance optimization**  
+- ⚙️ Strong in **Problem solving logic, system workflows, and performance optimization**  
 - 🌱 Currently improving **Data Structures & Algorithms (Java)** and **AWS Cloud**  
-- 🤝 Open to collaborating on **backend systems, web apps, and data-driven projects**  
+- 🤝 Open to collaborating on **Backend systems, web apps, and data-driven projects**  
 - 💬 Ask me about **Java, SQL, ETL, React, and System Design basics**  
 - 🏆 **Merit-based scholarship holder** with multiple national & institutional recognitions  
 
@@ -21,11 +21,11 @@ I build **scalable data systems and full-stack applications** with a strong focu
 ## 💼 Experience  
 
 ### 💻 Software Engineer @ Capgemini (Aug 2025 – Present)  
-- Designed and optimized **high-performance ETL pipelines** using Ab Initio  
-- Improved system efficiency using **parallel processing & advanced components**  
+- Designed and optimized **High-performance ETL pipelines** using Ab Initio  
+- Improved system efficiency using **Parallel processing & advanced components**  
 - Built and optimized **SQL queries & Unix automation scripts**  
-- Performed **root-cause analysis** to resolve ETL failures  
-- Collaborated with cross-functional teams for **reliable data integration**
+- Performed **Root-cause analysis** to resolve ETL failures  
+- Collaborated with cross-functional teams for **Reliable data integration**
 
 ---
 
@@ -51,11 +51,11 @@ I build **scalable data systems and full-stack applications** with a strong focu
 ### ♻️ E-Waste Tracker (Blockchain-Based)  
 🔗 [View Project](https://github.com/sans-kruti-18/Ewaste-Tracker-Using-Blockchain)
 
-- Built a **decentralized platform** using Ethereum & Solidity  
-- Enabled **secure and transparent tracking** of e-waste lifecycle  
+- Built a **Decentralized platform** using Ethereum & Solidity  
+- Enabled **Secure and Transparent tracking** of e-waste lifecycle  
 - Integrated stakeholders via **Web3.js frontend**  
-- Implemented **smart contracts for automation & audit trails**  
-- Focused on **data integrity, compliance, and real-time updates**
+- Implemented **Smart contracts for automation & audit trails**  
+- Focused on **Data integrity, Compliance, and Real-time updates**
 
 ---
 
