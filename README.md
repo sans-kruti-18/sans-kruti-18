@@ -89,8 +89,8 @@ I build **scalable data systems and full-stack applications** with a strong focu
 
 ## ⚡ What Makes Me Different  
 
-- Strong **combination of Data Engineering + Full Stack**
-- Real-world **industry experience (Capgemini)**
-- Proven **academic excellence & scholarships**
-- Hands-on with **Blockchain + Backend Systems**
-- Focused on **scalable, production-level solutions**
+- Strong foundation in **Data Engineering (ETL, SQL, Data Warehousing)**
+- Hands-on experience with **Ab Initio and real-world data pipelines (Capgemini)**
+- Consistent problem-solving practice using **Data Structures & Algorithms in Java**
+- Proven **academic excellence with multiple national-level scholarships**
+- Experience building **practical, real-world projects (Blockchain-based systems)**
