@@ -29,20 +29,42 @@ I specialize in **Data Engineering and ETL workflows**, with a focus on building
 
 ---
 
-## 🛠️ Tech Stack  
+# 💻 Tech Stack
 
-### 👨‍💻 Programming  
-`Java` `C` `C++` `Unix Shell Scripting`  
+## 👨‍💻 Programming
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Unix_Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🗄️ Data Engineering  
-`Oracle SQL` `MySQL` `ETL` `Data Warehousing`  
+---
 
-### 🌐 Web & Tools  
-`React` `HTML` `CSS` `Web3.js` `Solidity`  
-`AWS` `Git` `Apache` `XAMPP`  
+## 🗄️ Data Engineering
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-%234B8BBE.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehousing-%230072C6.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### ⚙️ Platforms & Tools  
-`Ab Initio` `Truffle` `Ganache` `Linux/Unix`  
+---
+
+## 🌐 Web & Tools
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+---
+
+## ⚙️ Platforms & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apachefriends&logoColor=white)
+![Ab Initio](https://img.shields.io/badge/Ab_Initio-%23000000.svg?style=for-the-badge&logo=dataiku&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-%235E463A.svg?style=for-the-badge&logo=truffle&logoColor=white)
+![Ganache](https://img.shields.io/badge/Ganache-%23E4A663.svg?style=for-the-badge&logo=ethereum&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 ---
 
