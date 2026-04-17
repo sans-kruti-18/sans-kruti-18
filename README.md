@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sanskruti Kadnor  
+# 👋 Hi, I'm Sanskruti Kadnor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/g
 
 💻 **Software Engineer | Data Engineering Enthusiast | Developer**  
 📍 Pune, India  
