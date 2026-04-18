@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Sanskruti Kadnor https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
+# 👋 Hi, I'm Sanskruti Kadnor  
 
 💻 **Software Engineer | Data Engineering Enthusiast | Developer**  
-📍 Pune, India 
+📍 Pune, India  
 
 I specialize in **Data Engineering and ETL workflows**, with a focus on building efficient, reliable systems for real-world applications. Currently working as a **Software Engineer at Capgemini**, where I design and optimize ETL pipelines and backend workflows.
 
